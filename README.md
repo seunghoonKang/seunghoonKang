@@ -1,5 +1,14 @@
 ### Hi there 👋
+![Seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghoonKang&show_icons=true&theme=dark)
 
+
+
+<a href="https://github.com/seunghoonKang/we-all-lie-fe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seunghoonKang&repo=we-all-lie-fe" />
+</a>
+<a href="https://github.com/seunghoonKang/frontend-miniproject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seunghoonKang&repo=frontend-miniproject" />
+</a>
 <!--
 **seunghoonKang/seunghoonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
