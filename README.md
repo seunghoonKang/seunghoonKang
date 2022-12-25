@@ -1,14 +1,23 @@
-### Hi there 👋
-![Seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghoonKang&show_icons=true&theme=dark)
+### 
+
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=%20Hi%20I'm%20FrontEnd%20Developer%20Seunghoon🙂%20&animation=twinkling&fontSize=30&textBg=true)
+  
+![Seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghoonKang&show_icons=true&theme=dracula)
+ 
+ </br>
+
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghoonKang&hide=EJS,shell&theme=dracula"/>
 
 
 
-<a href="https://github.com/seunghoonKang/we-all-lie-fe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seunghoonKang&repo=we-all-lie-fe" />
-</a>
-<a href="https://github.com/seunghoonKang/frontend-miniproject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seunghoonKang&repo=frontend-miniproject" />
-</a>
+</br>
+</br>
+
+</div>
+
 <!--
 **seunghoonKang/seunghoonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
